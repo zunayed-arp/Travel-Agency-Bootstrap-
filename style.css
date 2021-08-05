@@ -1,0 +1,13 @@
+.background-image-top{
+background-image: url(assets/Decore.svg);
+}
+
+.button-background-color{
+	background-color: #f1a501;
+}
+.find-out-more-button{
+	padding: 19px 27px;
+	font-size: 18px;
+	font-weight: 500;
+	
+}
